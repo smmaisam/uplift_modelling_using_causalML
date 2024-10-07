@@ -7,6 +7,6 @@ Objectives
 The main objectives of this project are:
 
 - Implement Uplift Modeling to predict treatment effects at an individual level.
-- Explore and compare different modeling approaches (single-model, two-model, tree-based).
+- Explore tree based modeling approaches.
 - Evaluate model performance using Uplift and Qini curves.
 - Use CausalML to ensure interpretability and transparency in uplift modeling.
